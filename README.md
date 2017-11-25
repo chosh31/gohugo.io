@@ -18,5 +18,7 @@ echo 'theme = "ananke"' >> config.toml
 
 hugo new posts/my-first-post.md
 
+hugo server -D
+
 netlify - hosting
 https://www.netlify.com/
